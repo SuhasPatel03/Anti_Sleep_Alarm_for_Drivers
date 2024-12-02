@@ -1,0 +1,1 @@
+Designed and developed a system to detect driver drowsiness and issue alerts, enhancing road safety by preventing accidents caused. Enhanced Safety Features: Integrated user-friendly notifications and adjustable sensitivity settings to ensure timely and effective alerts, improving overall driving safety.
